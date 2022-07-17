@@ -1,4 +1,4 @@
-use crate::models::video::Video;
+use crate::features::video::model::Video;
 use yew::prelude::*;
 
 #[derive(Clone, Properties, PartialEq)]
